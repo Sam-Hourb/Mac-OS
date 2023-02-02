@@ -1,2 +1,2 @@
-// to stop a service (client)
+// to stop a process (client)
 kill <serviceName>
