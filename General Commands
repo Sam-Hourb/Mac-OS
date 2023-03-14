@@ -1,4 +1,4 @@
-// to set password for root account
+// to set password for root account (not recommanded)
 sudo passwd root
 
 // to stop a process (client)
