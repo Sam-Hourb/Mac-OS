@@ -1,3 +1,6 @@
+// to see a users user identifier(uid)
+id <username>
+
 // to set password for root account (not recommanded)
 sudo passwd root
 
