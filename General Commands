@@ -1,2 +1,5 @@
+// to set password for root account
+sudo passwd root
+
 // to stop a process (client)
 kill <serviceName>
