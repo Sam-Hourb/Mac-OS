@@ -1,0 +1,5 @@
+// to see usb devices installed on the Mac
+ls /dev/*usb*
+
+// to connect to cisco console port
+Screen /dev/tty.usbserial-<number> <9600>
